@@ -1,0 +1,9 @@
+Write a professional customer-support reply to the review below.
+
+Acknowledge the problems, avoid blame, and offer a clear next step.
+Keep it under 80 words.
+
+Return only the reply.
+
+Review:
+{text}

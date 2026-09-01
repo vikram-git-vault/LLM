@@ -1,0 +1,11 @@
+Write a one-line verdict summarising the following product review.
+
+Requirements:
+- Maximum 15 words.
+- Neutral, factual tone.
+- Mention both the strongest positive and the strongest negative.
+
+Return only the verdict line.
+
+Review:
+{review}

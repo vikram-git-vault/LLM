@@ -1,0 +1,13 @@
+# OpenAI SDK - used directly in app1 and app2
+openai
+
+# LangChain - used in app4 and app5
+langchain
+langchain-core
+langchain-openai
+
+# Loads variables from .env
+python-dotenv
+
+# Schema validation for structured output
+pydantic

@@ -1,0 +1,7 @@
+List the specific problems the customer reports in the following review.
+
+Return each problem on its own line, starting with a dash.
+Do not include praise. Do not add problems that are not stated.
+
+Review:
+{review}

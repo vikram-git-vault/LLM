@@ -1,0 +1,11 @@
+Classify the overall sentiment of the following product review.
+
+Rules:
+- Answer with exactly one word: positive, negative, or mixed.
+- Use "mixed" when the reviewer clearly praises some parts and
+  criticises others.
+- Base the answer only on the review text. Do not guess.
+- Return only the single word, with no explanation.
+
+Review:
+{review}

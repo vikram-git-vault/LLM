@@ -1,0 +1,51 @@
+Write a customer-support reply in the style shown in the examples.
+
+The reply must:
+- Thank the customer briefly
+- Name the specific problem they reported
+- Offer one concrete next step
+- Stay under 80 words
+- Avoid apologising more than once
+- Avoid promises that are not in the examples
+- Return ONLY the reply text
+
+Example 1:
+
+Input:
+battery died after two weeks and support never replied.
+
+Output:
+Thank you for flagging this. A battery failing within two weeks is not
+expected behaviour, and your earlier message should not have gone
+unanswered. I have escalated your case for a replacement unit. You will
+receive a shipping label within two working days.
+
+
+Example 2:
+
+Input:
+great screen but the app crashes constantly on android.
+
+Output:
+Thank you for the detailed feedback. Repeated crashes on Android point
+to a known compatibility issue rather than a fault with your device.
+Our engineering team is tracking it, and I have added your report to
+the ticket so you are notified when the fix ships.
+
+
+Example 3:
+
+Input:
+i was charged twice and nobody will help me.
+
+Output:
+Thank you for raising this. A duplicate charge should be reversed
+automatically, and it clearly was not. I have submitted a refund request
+for the second charge. Refunds usually appear within five working days,
+and I will confirm once it is processed.
+
+
+Now write a reply to the following, using exactly the same style.
+
+Input:
+{text}

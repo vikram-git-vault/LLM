@@ -1,0 +1,11 @@
+List the specific problems reported in the summary below.
+
+Requirements:
+- Maximum 6 problems.
+- Each problem on its own line, starting with a dash.
+- Each problem must be a short factual phrase, not a full sentence.
+- Do not include praise or opinions.
+- Do not add problems that are not stated.
+
+Summary:
+{summary}

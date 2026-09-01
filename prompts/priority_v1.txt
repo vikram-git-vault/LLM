@@ -1,0 +1,14 @@
+You are triaging a customer complaint for a support team.
+
+Given the list of reported problems below, assign a single priority:
+high, medium, or low.
+
+Guidance:
+- high  = the product is unusable, or money or data is at risk
+- medium = the product works but is degraded or unreliable
+- low   = cosmetic, minor, or a question rather than a fault
+
+Return only the priority word.
+
+Problems:
+{issues}

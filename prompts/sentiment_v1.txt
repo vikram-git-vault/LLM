@@ -1,0 +1,6 @@
+Classify the overall sentiment of the following product review.
+
+Answer with exactly one word: positive, negative, or mixed.
+
+Review:
+{review}
