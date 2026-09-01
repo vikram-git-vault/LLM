@@ -1,4 +1,4 @@
-# LLM — review-insights
+# LLM
 
 A hands-on project for learning how to work with large language models
 through the OpenAI API and LangChain.
